@@ -1,0 +1,26 @@
+{
+  "name": "openmrs-contrib-id-rest",
+  "version": "0.0.0",
+  "description": "Module that provide RESTful APIs for ID Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Plypy/openmrs-contrib-id-rest.git"
+  },
+  "keywords": [
+    "OpenMRS",
+    "Dashboard"
+  ],
+  "author": "Plypy",
+  "license": "MPLv2",
+  "bugs": {
+    "url": "https://github.com/Plypy/openmrs-contrib-id-rest/issues"
+  },
+  "homepage": "https://github.com/Plypy/openmrs-contrib-id-rest",
+  "dependencies": {
+    "express": "^3.15.2"
+  }
+}
